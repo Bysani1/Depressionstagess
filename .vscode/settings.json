@@ -1,0 +1,4 @@
+{
+    "liveServer.settings.port": 5501,
+    "python.defaultInterpreterPath": "${workspaceFolder}/env/bin/python3.6"
+}
